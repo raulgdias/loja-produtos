@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Produto 3">
+  <rect width="640" height="480" fill="#bfdbfe" />
+  <rect x="130" y="130" width="380" height="230" rx="40" fill="#2563eb" />
+  <circle cx="320" cy="250" r="60" fill="#93c5fd" />
+  <text x="320" y="430" fill="#1e293b" font-family="Inter, sans-serif" font-size="44" text-anchor="middle">Fone</text>
+</svg>
